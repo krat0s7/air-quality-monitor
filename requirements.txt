@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+gunicorn
+tensorflow
+joblib
+numpy
+xgboost
+psycopg2-binary
